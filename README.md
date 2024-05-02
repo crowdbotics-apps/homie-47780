@@ -62,6 +62,8 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-appointment](modules/appointment)
 - [react-native-appointment-local](modules/appointment-local)
 - [django-appointment-local](backend/modules)
+- [django-calendly](backend/modules)
+- [django-contact-us](backend/modules)
 
 # Getting started: Frontend
 
