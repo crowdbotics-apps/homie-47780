@@ -19,6 +19,7 @@
     "@modules/appointment-local": "file:./modules/appointment-local/",
     "@modules/image-gallery": "file:./modules/image-gallery/",
     "@modules/maps": "file:./modules/maps/",
+    "@modules/onboarding": "file:./modules/onboarding/",
     "@modules/privacy-policy-webview": "file:./modules/privacy-policy-webview/",
     "@modules/social-feed": "file:./modules/social-feed",
     "@react-native-camera-roll/camera-roll": "5.0.2",
