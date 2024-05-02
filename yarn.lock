@@ -1466,6 +1466,11 @@
   dependencies:
     react-native-dropdown-picker "5.3.0"
 
+"@modules/appointment-local@file:./modules/appointment-local/":
+  version "1.0.1"
+  dependencies:
+    react-native-dropdown-picker "5.3.0"
+
 "@modules/appointment@file:./modules/appointment":
   version "1.0.0"
   dependencies:
@@ -1476,7 +1481,7 @@
     react-native-dropdown-picker "5.3.0"
     react-native-screens "3.10.2"
 
-"@modules/image-gallery@file:./modules/image-gallery/":
+"@modules/image-gallery@file:./modules/image-gallery":
   version "1.0.0"
 
 "@modules/maps@file:./modules/maps":
