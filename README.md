@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [social-feed]()
 - [django-docusign](backend/modules)
 - [react-native-maps](modules/maps)
+- [django-openai](backend/modules)
 
 # Getting started: Frontend
 
