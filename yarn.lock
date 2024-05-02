@@ -1466,6 +1466,11 @@
   dependencies:
     react-native-dropdown-picker "5.3.0"
 
+"@modules/appointment-local@file:./modules/appointment-local/":
+  version "1.0.1"
+  dependencies:
+    react-native-dropdown-picker "5.3.0"
+
 "@modules/appointment@file:./modules/appointment":
   version "1.0.0"
   dependencies:
@@ -1500,7 +1505,7 @@
     react-native-keyboard-aware-scroll-view "^0.9.5"
     react-native-screens "3.10.2"
 
-"@modules/zoom-free-calling@file:./modules/zoom-free-calling/":
+"@modules/zoom-free-calling@file:./modules/zoom-free-calling":
   version "1.0.1"
   dependencies:
     react-native-base64 "0.2.1"
