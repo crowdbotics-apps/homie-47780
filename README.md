@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-zoom-free-calling](modules/zoom-free-calling)
 - [react-native-social-login](modules/social-login)
 - [django-core](backend/modules)
+- [faq]()
 
 # Getting started: Frontend
 
